@@ -1,0 +1,16 @@
+--2020-01-13 18:01:18--  https://www.dropbox.com/download?plat=lnx.x86_64
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.82.1, 2620:100:6031:1::a27d:5101
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.82.1|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://clientupdates.dropboxstatic.com/dbx-releng/client/dropbox-lnx.x86_64-88.4.172.tar.gz [following]
+--2020-01-13 18:01:34--  https://clientupdates.dropboxstatic.com/dbx-releng/client/dropbox-lnx.x86_64-88.4.172.tar.gz
+Resolving clientupdates.dropboxstatic.com (clientupdates.dropboxstatic.com)... 143.204.212.61
+Connecting to clientupdates.dropboxstatic.com (clientupdates.dropboxstatic.com)|143.204.212.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102549714 (98M) [binary/octet-stream]
+Saving to: ‘STDOUT’
+
+-                    24%[===>                ]  23.73M   157KB/s    in 5m 34s  
+
+
+Cannot write to ‘-’ (Success).
